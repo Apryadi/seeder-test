@@ -7,7 +7,7 @@ use App\Http\Controllers\JournalController;
 use App\Http\Controllers\SkripsiController;
 use App\Http\Controllers\CDController;
 
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('home');
 });
 

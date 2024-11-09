@@ -6,6 +6,12 @@
     <title>CD List</title>
 </head>
 <body>
+    <a href="/book">Buku</a>
+    <a href="/CD">CD</a>
+    <a href="/journal">Jurnal</a>
+    <a href="/newspaper">Koran</a>
+    <a href="/skripsi">Skripsi</a>
+    <a href="/home">Kembali Ke awal</a>
     <table>
         <tr>
             <th>Judul</th>
